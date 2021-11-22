@@ -6,7 +6,7 @@ The input data used to generate the plots are not available as some of them are 
 
 ## Overview
 
-**Program** and **output** folders contains R scripts and the output plots, separately. R script and the corresponding plot file shared the same name. 
+**Program** and **plot** folders contains R scripts and the output plots, separately. R script and the corresponding plot file shared the same name. 
 
 ## Update
 
