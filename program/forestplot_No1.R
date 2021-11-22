@@ -1,4 +1,6 @@
-### Description: this is the code to create forest plot of Recovery Rate Ratios by baseline characteristic groups
+
+### Project: Actt-1 Forest plot of Recovery Rate Ratios by baseline characteristic groups
+### Programmer: Jing Wang
 
 library(readxl)
 library(dplyr)

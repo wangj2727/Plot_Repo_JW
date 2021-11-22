@@ -1,5 +1,7 @@
 
 ### Description: code to create forestplot using ggplot2 and grid packages
+### Project: Italy Covid
+### Programmer: Jing Wang (code modified based on the R script written by Ana Ortega-Villa) 
 
 library(ggplot2)
 library(grid)
